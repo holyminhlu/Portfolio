@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#0b1020"/>
+      <stop offset="1" stop-color="#1b2a5a"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="900" fill="url(#bg)"/>
+  <rect x="80" y="80" width="1440" height="740" rx="28" fill="rgba(255,255,255,0.06)" stroke="rgba(255,255,255,0.18)"/>
+  <text x="140" y="190" fill="#e8ecff" font-family="Segoe UI, Roboto, Arial" font-size="56" font-weight="700">BaoCaoQTDA</text>
+  <text x="140" y="260" fill="rgba(232,236,255,0.75)" font-family="Segoe UI, Roboto, Arial" font-size="28">Placeholder image — replace with the real photo later</text>
+  <g fill="rgba(122,162,255,0.35)">
+    <circle cx="1380" cy="230" r="90"/>
+    <circle cx="1280" cy="320" r="50"/>
+    <circle cx="1470" cy="340" r="35"/>
+  </g>
+</svg>

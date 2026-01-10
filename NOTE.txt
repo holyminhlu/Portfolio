@@ -1,1 +1,2 @@
 npm --prefix "d:\Portfolio\portfolio-vue" run dev
+npm --prefix "d:\Portfolio\memories-vue\memory-share" run dev -- --host

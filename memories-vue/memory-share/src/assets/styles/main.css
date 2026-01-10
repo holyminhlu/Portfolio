@@ -1,0 +1,66 @@
+:root {
+  color-scheme: light;
+  --bg: #0b1020;
+  --surface: rgba(255, 255, 255, 0.06);
+  --text: #e8ecff;
+  --muted: rgba(232, 236, 255, 0.7);
+  --border: rgba(232, 236, 255, 0.15);
+  --accent: #7aa2ff;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Arial, "Apple Color Emoji", "Segoe UI Emoji";
+  background: radial-gradient(1200px 800px at 20% 10%, rgba(122, 162, 255, 0.25), transparent 55%),
+    radial-gradient(900px 700px at 85% 20%, rgba(132, 212, 255, 0.18), transparent 55%),
+    var(--bg);
+  color: var(--text);
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.container {
+  width: min(1000px, calc(100% - 32px));
+  margin: 0 auto;
+  padding: 24px 0;
+}
+
+.card {
+  border: 1px solid var(--border);
+  background: var(--surface);
+  border-radius: 14px;
+  padding: 16px;
+}
+
+.muted {
+  color: var(--muted);
+}
+
+.btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  padding: 10px 14px;
+  border-radius: 12px;
+  border: 1px solid var(--border);
+  background: rgba(255, 255, 255, 0.08);
+  color: var(--text);
+  cursor: pointer;
+}
+
+.btn:hover {
+  border-color: rgba(122, 162, 255, 0.6);
+}
