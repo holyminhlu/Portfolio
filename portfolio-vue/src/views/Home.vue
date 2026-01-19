@@ -8,11 +8,11 @@
           <h1 class="title">Hồ Lý Minh Lữ</h1>
           <h2 class="subtitle">Database Engineer & Frontend-Backend Developer</h2>
           <p class="lead">
-            Mình xây dựng các hệ thống web và cơ sở dữ liệu hiệu năng cao, tập trung vào kiến trúc rõ ràng,
+            Mình xây dựng các hệ thống web và cơ sở dữ liệu, tập trung vào kiến trúc rõ ràng,
             trải nghiệm người dùng, và chất lượng mã nguồn.<br />
-            Xây dựng hệ thống UI có cấu trúc rõ ràng, tối ưu hiệu năng và thiết kế kiến trúc frontend theo hướng dễ mở rộng, dễ bảo trì.<br />
-            Phát triển backend theo mô hình tách lớp rõ ràng, đảm bảo xử lý nghiệp vụ hiệu quả, bảo mật và khả năng mở rộng hệ thống.<br />
-            Thiết kế và triển khai các hệ thống thông tin ổn định, hiệu quả, đáp ứng tốt yêu cầu nghiệp vụ và vận hành lâu dài.<br />
+            Xây dựng hệ thống UI có cấu trúc rõ ràng,thiết kế kiến trúc frontend theo hướng dễ mở rộng, dễ bảo trì.<br />
+            Phát triển backend theo mô hình tách lớp rõ ràng và khả năng mở rộng hệ thống.<br />
+            <br />
           </p>
 
           <div class="actions">
@@ -38,7 +38,7 @@
               </div>
               <div>
                 <dt>Focus</dt>
-                <dd>Vue, Node.js, Next.js</dd>
+                <dd>Vue, Node.js</dd>
               </div>
               <div>
                 <dt>Strength</dt>
