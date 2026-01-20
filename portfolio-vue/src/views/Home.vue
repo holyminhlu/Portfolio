@@ -178,7 +178,7 @@ async function onExportPdf() {
 }
 
 const skills = {
-  frontend: ['Vue 3', 'TypeScript', 'JavaScript', 'HTML', 'CSS', 'Vite', 'Vue Router'],
+  frontend: ['Vue 3', 'JavaScript', 'HTML', 'CSS', 'Vite', 'Vue Router'],
   backend: ['Node.js', 'REST API', 'Auth/JWT'],
   database: ['MongoDB', 'MySQL',],
   tools: ['Git', 'CI/CD', 'Docker (basic)',]
